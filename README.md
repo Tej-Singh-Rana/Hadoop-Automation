@@ -4,4 +4,4 @@
 ## Hadoop 
 ## Docker-compose
 
-- To clone this repo `git clone -b docker-hadoop https://github.com/Tej-Singh-Rana/Automation.git`
+- To clone this repo `git clone -b configuration https://github.com/Tej-Singh-Rana/Hadoop-Automation.git`
